@@ -24,7 +24,4 @@ public class AsteroidBusiness {
         return res;
 
     }
-}
-
-
-ceci est une erreur, ça n'a rien à faire ici
+};
